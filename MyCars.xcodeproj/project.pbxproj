@@ -14,6 +14,7 @@
 		A70BAC5A2905BC0600A29B15 /* MyCars.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A70BAC582905BC0600A29B15 /* MyCars.xcdatamodeld */; };
 		A70BAC5C2905BC0700A29B15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A70BAC5B2905BC0700A29B15 /* Assets.xcassets */; };
 		A70BAC5F2905BC0700A29B15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A70BAC5D2905BC0700A29B15 /* LaunchScreen.storyboard */; };
+		A70BAC672905BC6E00A29B15 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = A70BAC662905BC6E00A29B15 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A70BAC5B2905BC0700A29B15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A70BAC5E2905BC0700A29B15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A70BAC602905BC0700A29B15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A70BAC662905BC6E00A29B15 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A70BAC552905BC0600A29B15 /* Main.storyboard */,
 				A70BAC5B2905BC0700A29B15 /* Assets.xcassets */,
 				A70BAC5D2905BC0700A29B15 /* LaunchScreen.storyboard */,
+				A70BAC662905BC6E00A29B15 /* data.plist */,
 				A70BAC602905BC0700A29B15 /* Info.plist */,
 				A70BAC582905BC0600A29B15 /* MyCars.xcdatamodeld */,
 			);
@@ -130,6 +133,7 @@
 			files = (
 				A70BAC5F2905BC0700A29B15 /* LaunchScreen.storyboard in Resources */,
 				A70BAC5C2905BC0700A29B15 /* Assets.xcassets in Resources */,
+				A70BAC672905BC6E00A29B15 /* data.plist in Resources */,
 				A70BAC572905BC0600A29B15 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
